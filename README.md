@@ -13,6 +13,10 @@ The current main developer is the Raphael Goujet ([CRI](http://cri-paris.org)).
 
 ## analysis
 
+## fun facts
+
+- no player than played with the sandbox have completed the game
+
 ## diagnostics
 
 - attention span
