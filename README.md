@@ -4,10 +4,10 @@ This repository contains a set of notebooks used to produce analysis to help opt
 
 The main purpose is to provide a primer to perform data science with open software tools commonly used in the scientific field:
 
-- [ipyton notebooks/jupyter]()
-  - [pandas]
-  - [matplotlib]
-  - [scikit-learn]
+- [ipyton notebooks/jupyter](http://jupyter.org/)
+  - [pandas](http://pandas.pydata.org/)
+  - [matplotlib](http://matplotlib.org/)
+  - [scikit-learn](http://scikit-learn.org/)
 
 ## hero.coli
 
@@ -19,8 +19,8 @@ The current lead contributor of this project is the Raphael Goujet ([CRI](http:/
 
 ## datasets
 
-- [players statistics](https://github.com/CyberCRI/dataanalysis-herocoli-redmetrics/blob/master/data/players_stats.csv) 156 games
-- [coordinates of events](https://github.com/CyberCRI/dataanalysis-herocoli-redmetrics/blob/master/data/players_coordinates.csv) 2010 events
+- [players statistics (csv)](https://github.com/CyberCRI/dataanalysis-herocoli-redmetrics/blob/master/data/players_stats.csv): 156 games ([notebook](data/0.1. compile basic data about players~games.ipynb))
+- [coordinates of events (csv)](https://github.com/CyberCRI/dataanalysis-herocoli-redmetrics/blob/master/data/players_coordinates.csv): 2010 events ([notebook](data/0.2. compile paths.ipynb))
 
 ## analysis
 
@@ -28,14 +28,21 @@ The current lead contributor of this project is the Raphael Goujet ([CRI](http:/
 
 ![hotspot map](https://github.com/CyberCRI/dataanalysis-herocoli-redmetrics/raw/master/images/map.hotspots.png)
 
+If you are curious about it, you can check the notebook where we [are generating the maps](2. paths.ipynb).
+
 ### player profiling
 
+We also perform a series of regressions to get an idea about player profiles but there is not enough data yet to reach conclusive statements.
+
+We could for example [try to predict if a player is going to complete the game or not](1.1.%20predicting%20if%20a%20player%20is%20going%20to%20complete%20the%20game%20or%20not.ipynb).
+
+You can check [the notebook](1. basic player statistics.ipynb) if you are looking for examples about how to use pandas to manipulate data in coordination with machine learning implentation (via scikit-learn)
 
 ## fun facts
 
-- no player than played with the sandbox have completed the game
+- no player than played with the sandbox have completed the game.
 
 ## diagnostics
 
-- attention span
-- need more data
+- attention span: players who are completing the game tend to play around ~800 seconds. There is a drop after 15 minutes of play.
+- need more data to get significant results.
