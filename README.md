@@ -4,10 +4,10 @@ This repository contains a set of notebooks used to produce analysis to help opt
 
 The main purpose is to provide a primer to perform data science with open software tools commonly used in the scientific field:
 
-- [ipyton notebooks/jupyter](http://jupyter.org/)
-  - [pandas](http://pandas.pydata.org/)
-  - [matplotlib](http://matplotlib.org/)
-  - [scikit-learn](http://scikit-learn.org/)
+- [ipyton notebooks/jupyter](http://jupyter.org/): a important piece of open science allowing to combine literate programming with computing science data.
+  - [pandas](http://pandas.pydata.org/): data manipulation and selection
+  - [matplotlib](http://matplotlib.org/): 2D plotting library
+  - [scikit-learn](http://scikit-learn.org/): machine learning implementation of common algorithms
 
 ## hero.coli
 
