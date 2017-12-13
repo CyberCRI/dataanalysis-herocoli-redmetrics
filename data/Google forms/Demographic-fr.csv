@@ -1,0 +1,45 @@
+,correctAnswer
+Timestamp,[]
+Are you interested in video games?,"['Beaucoup', 'Enormément', 'Moyennement']"
+Do you play video games?,"['Beaucoup', 'Enormément', 'Moyennement']"
+How old are you?,"[18, 19, 20, 21, 22, 23]"
+What is your gender?,['Femme']
+How long have you studied biology?,"[""Jusqu'à la license"", ""Au moins jusqu'au master""]"
+Are you interested in biology?,"['Beaucoup', 'Enormément', 'Moyennement']"
+"Before playing Hero.Coli, had you ever heard about synthetic biology?",['Oui']
+"Before playing Hero.Coli, had you ever heard about BioBricks?",['Oui']
+Have you ever played an older version of Hero.Coli before?,"['De nombreuses fois', 'Quelques fois', 'Une fois', 'Oui']"
+Have you played the current version of Hero.Coli?,"['De nombreuses fois', 'Quelques fois', 'Une fois', 'Oui']"
+Have you played the arcade cabinet version of Hero.Coli?,"['De nombreuses fois', 'Quelques fois', 'Une fois', 'Oui']"
+Have you played the Android version of Hero.Coli?,"['De nombreuses fois', 'Quelques fois', 'Une fois', 'Oui']"
+"In order to modify the abilities of the bacterium, you have to...",[]
+What are BioBricks and devices?,[]
+What is the name of this BioBrick?,[]
+What is the name of this BioBrick?.1,[]
+What is the name of this BioBrick?.2,[]
+What is the name of this BioBrick?.3,[]
+What does this BioBrick do?,[]
+What does this BioBrick do?.1,[]
+What does this BioBrick do?.2,[]
+What does this BioBrick do?.3,[]
+Pick the case where the BioBricks are well-ordered:,[]
+When does green fluorescence happen?,[]
+What happens when you unequip the movement device?,[]
+What is this?,[]
+What does this device do?,[]
+What does this device do?.1,[]
+What does this device do?.2,[]
+What does this device do?.3,[]
+What does this device do?.4,[]
+What does this device do?.5,[]
+What does this device do?.6,[]
+What does this device do?.7,[]
+"Guess: what would a device producing l-arabinose do, if it started with a l-arabinose-induced promoter?",[]
+Guess: the bacterium would glow yellow...,[]
+What is the species of the bacterium of the game?,[]
+What is the scientific name of the tails of the bacterium?,[]
+Find the antibiotic:,[]
+You can write down remarks here.,[]
+Do not edit -  pre-filled anonymous ID,[]
+Language,['en']
+Temporality,['after']
