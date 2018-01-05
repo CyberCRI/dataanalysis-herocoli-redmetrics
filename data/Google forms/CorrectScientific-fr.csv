@@ -24,7 +24,7 @@ What does this BioBrick do? RBS,['Elle contrôle le niveau d']
 Pick the case where the BioBricks are well-ordered:,['Option 3']
 When does green fluorescence happen?,"['Sous lumière bleue, quand la construction GFP']"
 What happens when you unequip the movement device?,['Les flagelles disparaissent l']
-What is this?,['Un plasmide - un moyen d']
+What is this? PLASMID,['Un plasmide - un moyen d']
 What does this device do? PCONS:RBS:GFP:TER,['Elle produit la fluorescence verte']
 What does this device do? PCONS:RBS:FLHDC:TER,['Elle permet de se déplacer plus vite']
 What does this device do? PCONS:RBS:AMPR:TER,['Elle permet de résister aux antibiotiques']
