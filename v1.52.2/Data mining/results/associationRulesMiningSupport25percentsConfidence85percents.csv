@@ -1,0 +1,5 @@
+,antecedants,consequents,support,confidence
+0,frozenset({'QDeviceRbsPconsAmprTer'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),65,0.9848484848484849
+1,frozenset({'QBioBricksDevicesComposition'}),frozenset({'QGenotypePhenotype'}),69,0.9078947368421053
+2,frozenset({'QUnequipDevice'}),frozenset({'QGenotypePhenotype'}),66,0.868421052631579
+3,frozenset({'QDeviceRbsPconsFlhdcTer'}),frozenset({'QGenotypePhenotype'}),71,0.8658536585365854
