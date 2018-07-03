@@ -1,114 +1,114 @@
 ,antecedants,consequents,support,confidence
-0,"frozenset({'QGenotypePhenotype', 'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),52,1.0
-1,"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",52,0.8666666666666667
-2,"frozenset({'QGenotypePhenotype', 'QDeviceAmprRbsPconsTer'})","frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",52,1.0
-3,"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QGenotypePhenotype'}),52,0.896551724137931
-4,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})","frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})",52,0.8813559322033898
-5,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QGenotypePhenotype', 'QDeviceAmprRbsPconsTer'})",52,0.8
-6,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",52,0.896551724137931
-7,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",52,0.8524590163934426
-8,"frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceAmprRbsPconsTer'}),52,0.8813559322033898
-9,"frozenset({'QGenotypePhenotype', 'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),52,1.0
-10,"frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),52,0.8813559322033898
-11,"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QGenotypePhenotype'}),52,0.896551724137931
-12,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})","frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})",52,0.8387096774193549
-13,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype'})",52,0.8
-14,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",52,0.896551724137931
-15,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",52,0.8387096774193549
-16,"frozenset({'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),52,1.0
-17,"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",52,0.8666666666666667
-18,"frozenset({'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype'})","frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",52,0.9629629629629629
-19,"frozenset({'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),52,0.9629629629629629
-20,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),55,1.0
-21,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",55,0.9482758620689655
-22,frozenset({'QDeviceRbsPconsAmprTer'}),"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",55,0.8333333333333334
-23,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",55,0.9482758620689655
-24,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceAmprRbsPconsTer'})","frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",55,0.9821428571428571
-25,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",55,0.9016393442622951
-26,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",55,0.8870967741935484
-27,"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),55,0.9482758620689655
-28,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceAmprRbsPconsTer'})",55,0.8461538461538461
-29,"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceAmprRbsPconsTer'}),55,0.9482758620689655
-30,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),55,0.9821428571428571
-31,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})","frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",55,0.9322033898305084
-32,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})","frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",55,0.8870967741935484
-33,"frozenset({'QAmpicillin', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),51,1.0
-34,"frozenset({'QAmpicillin', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),51,0.864406779661017
-35,"frozenset({'QAmpicillin', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),50,0.847457627118644
-36,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QAmpicillin'}),50,0.8064516129032258
-37,"frozenset({'QDeviceGfpRbsPconsTer', 'QAmpicillin'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),50,1.0
-38,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QAmpicillin', 'QDeviceRbsPconsFlhdcTer'})",50,0.8064516129032258
-39,"frozenset({'QGreenFluorescence', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QGenotypePhenotype'}),54,0.8852459016393442
-40,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QGenotypePhenotype'}),52,0.8813559322033898
-41,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",52,0.8524590163934426
-42,"frozenset({'QGenotypePhenotype', 'QDeviceAmprRbsPconsTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),52,1.0
-43,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),58,1.0
-44,frozenset({'QDeviceRbsPconsAmprTer'}),"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",58,0.8787878787878788
-45,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",58,0.9508196721311475
-46,"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceAmprRbsPconsTer'}),58,0.8923076923076924
-47,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),58,0.9830508474576272
-48,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),56,0.9491525423728814
-49,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceAmprRbsPconsTer'}),56,0.9032258064516129
-50,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceAmprRbsPconsTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),56,1.0
-51,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",56,0.9180327868852459
-52,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",56,0.9032258064516129
-53,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QGenotypePhenotype'}),52,0.896551724137931
-54,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})",52,0.8524590163934426
-55,"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceAmprRbsPconsTer'}),52,0.8666666666666667
-56,"frozenset({'QGenotypePhenotype', 'QDeviceAmprRbsPconsTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),52,1.0
-57,"frozenset({'QAmpicillin', 'QGreenFluorescence'})",frozenset({'QGenotypePhenotype'}),53,0.8833333333333333
-58,"frozenset({'QGreenFluorescence', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),51,0.8360655737704918
-59,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QGreenFluorescence'}),51,0.8225806451612904
-60,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QGreenFluorescence', 'QDeviceRbsPconsFlhdcTer'})",51,0.8225806451612904
-61,"frozenset({'QDeviceGfpRbsPconsTer', 'QGreenFluorescence'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),51,1.0
-62,"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),59,0.9833333333333333
-63,"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QGenotypePhenotype'}),59,0.9076923076923077
-64,frozenset({'QDeviceRbsPconsAmprTer'}),"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",59,0.8939393939393939
-65,"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),59,0.8309859154929577
-66,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QGenotypePhenotype'}),54,0.8709677419354839
-67,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsFlhdcTer'})",54,0.8709677419354839
-68,"frozenset({'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),54,1.0
-69,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),55,0.9482758620689655
-70,frozenset({'QDeviceRbsPconsAmprTer'}),"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceAmprRbsPconsTer'})",55,0.8333333333333334
-71,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceAmprRbsPconsTer'}),55,0.9482758620689655
-72,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceAmprRbsPconsTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),55,0.9821428571428571
-73,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",55,0.9016393442622951
-74,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",55,0.8870967741935484
-75,"frozenset({'QAmpicillin', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QGenotypePhenotype'}),53,0.8983050847457628
-76,"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),58,0.8923076923076924
-77,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),58,1.0
-78,frozenset({'QDeviceRbsPconsAmprTer'}),"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",58,0.8787878787878788
-79,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",58,0.9354838709677419
-80,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),58,0.9354838709677419
-81,"frozenset({'QUnequipDevice', 'QGreenFluorescence'})",frozenset({'QGenotypePhenotype'}),53,0.8983050847457628
-82,"frozenset({'QUnequipDevice', 'QGenotypePhenotype'})",frozenset({'QGreenFluorescence'}),53,0.803030303030303
-83,"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),52,0.8666666666666667
-84,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QGenotypePhenotype'}),52,0.896551724137931
-85,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})",52,0.8387096774193549
-86,"frozenset({'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsAmprTer'}),52,0.9629629629629629
-87,"frozenset({'QGreenFluorescence', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QAmpicillin'}),50,0.819672131147541
-88,"frozenset({'QAmpicillin', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QGreenFluorescence'}),50,0.847457627118644
-89,"frozenset({'QAmpicillin', 'QGreenFluorescence'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),50,0.8333333333333334
-90,"frozenset({'QGreenFluorescence', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),50,0.9803921568627451
-91,"frozenset({'QGreenFluorescence', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),50,0.819672131147541
-92,"frozenset({'QUnequipDevice', 'QAmpicillin'})",frozenset({'QGenotypePhenotype'}),50,0.8928571428571429
-93,frozenset({'QDeviceAmprRbsPconsTer'}),frozenset({'QGenotypePhenotype'}),52,0.8524590163934426
-94,frozenset({'QDeviceRbsPconsAmprTer'}),frozenset({'QDeviceGfpRbsPconsTer'}),58,0.8787878787878788
-95,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QDeviceRbsPconsAmprTer'}),58,0.9354838709677419
-96,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QGreenFluorescence'}),51,0.8225806451612904
-97,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),62,1.0
-98,frozenset({'QDeviceAmprRbsPconsTer'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),59,0.9672131147540983
+0,"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),52,1.0
+1,"frozenset({'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype'})","frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",52,0.9629629629629629
+2,"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",52,0.8666666666666667
+3,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",frozenset({'QDeviceGfpRbsPconsTer'}),52,0.8813559322033898
+4,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QGenotypePhenotype'}),52,0.896551724137931
+5,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceRbsPconsFlhdcTer', 'QGenotypePhenotype'})",52,0.896551724137931
+6,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",52,0.8387096774193549
+7,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype'})",52,0.8
+8,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})","frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",52,0.8387096774193549
+9,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsAmprTer'}),52,0.9629629629629629
+10,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceAmprRbsPconsTer'}),55,0.9482758620689655
+11,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),55,1.0
+12,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",55,0.9482758620689655
+13,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",55,0.9482758620689655
+14,frozenset({'QDeviceRbsPconsAmprTer'}),"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",55,0.8333333333333334
+15,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceGfpRbsPconsTer'})","frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",55,0.9821428571428571
+16,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",55,0.8870967741935484
+17,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",55,0.9016393442622951
+18,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),55,0.9482758620689655
+19,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceGfpRbsPconsTer'})",55,0.8461538461538461
+20,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),55,0.9821428571428571
+21,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})","frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",55,0.8870967741935484
+22,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})","frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",55,0.9322033898305084
+23,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",frozenset({'QDeviceAmprRbsPconsTer'}),52,0.8813559322033898
+24,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),52,1.0
+25,"frozenset({'QGenotypePhenotype', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",52,0.8666666666666667
+26,"frozenset({'QDeviceAmprRbsPconsTer', 'QGenotypePhenotype'})","frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",52,1.0
+27,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QGenotypePhenotype'}),52,0.896551724137931
+28,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceAmprRbsPconsTer', 'QGenotypePhenotype'})",52,0.8
+29,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})","frozenset({'QDeviceRbsPconsFlhdcTer', 'QGenotypePhenotype'})",52,0.896551724137931
+30,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",52,0.8524590163934426
+31,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})","frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",52,0.8813559322033898
+32,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsAmprTer'}),52,1.0
+33,"frozenset({'QGreenFluorescence', 'QAmpicillin'})",frozenset({'QGenotypePhenotype'}),53,0.8833333333333333
+34,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QGreenFluorescence'})",frozenset({'QGenotypePhenotype'}),54,0.8852459016393442
+35,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QAmpicillin'})",frozenset({'QGenotypePhenotype'}),53,0.8983050847457628
+36,"frozenset({'QGreenFluorescence', 'QAmpicillin'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),50,0.8333333333333334
+37,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QAmpicillin'})",frozenset({'QGreenFluorescence'}),50,0.847457627118644
+38,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QGreenFluorescence'})",frozenset({'QAmpicillin'}),50,0.819672131147541
+39,"frozenset({'QUnequipDevice', 'QGenotypePhenotype'})",frozenset({'QGreenFluorescence'}),53,0.803030303030303
+40,"frozenset({'QUnequipDevice', 'QGreenFluorescence'})",frozenset({'QGenotypePhenotype'}),53,0.8983050847457628
+41,"frozenset({'QUnequipDevice', 'QAmpicillin'})",frozenset({'QGenotypePhenotype'}),50,0.8928571428571429
+42,"frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),59,0.9833333333333333
+43,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QGenotypePhenotype'}),59,0.9076923076923077
+44,frozenset({'QDeviceRbsPconsAmprTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QGenotypePhenotype'})",59,0.8939393939393939
+45,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsAmprTer'}),59,0.8309859154929577
+46,"frozenset({'QGreenFluorescence', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),50,0.9803921568627451
+47,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QGreenFluorescence'})",frozenset({'QDeviceRbsPconsAmprTer'}),50,0.819672131147541
+48,"frozenset({'QDeviceRbsPconsAmprTer', 'QAmpicillin'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),51,1.0
+49,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QAmpicillin'})",frozenset({'QDeviceRbsPconsAmprTer'}),51,0.864406779661017
+50,"frozenset({'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),54,1.0
+51,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",frozenset({'QGenotypePhenotype'}),54,0.8709677419354839
+52,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QGenotypePhenotype'})",54,0.8709677419354839
+53,"frozenset({'QDeviceGfpRbsPconsTer', 'QGreenFluorescence'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),51,1.0
+54,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QGreenFluorescence'})",frozenset({'QDeviceGfpRbsPconsTer'}),51,0.8360655737704918
+55,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",frozenset({'QGreenFluorescence'}),51,0.8225806451612904
+56,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QGreenFluorescence'})",51,0.8225806451612904
+57,"frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",frozenset({'QDeviceGfpRbsPconsTer'}),52,0.8666666666666667
+58,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QGenotypePhenotype'}),52,0.896551724137931
+59,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",52,0.8387096774193549
+60,"frozenset({'QDeviceGfpRbsPconsTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsAmprTer'}),52,0.9629629629629629
+61,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),58,1.0
+62,frozenset({'QDeviceRbsPconsAmprTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",58,0.8787878787878788
+63,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",58,0.9354838709677419
+64,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),58,0.8923076923076924
+65,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),58,0.9354838709677419
+66,"frozenset({'QDeviceGfpRbsPconsTer', 'QAmpicillin'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),50,1.0
+67,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QAmpicillin'})",50,0.8064516129032258
+68,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QAmpicillin'})",frozenset({'QDeviceGfpRbsPconsTer'}),50,0.847457627118644
+69,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",frozenset({'QAmpicillin'}),50,0.8064516129032258
+70,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",frozenset({'QDeviceAmprRbsPconsTer'}),56,0.9032258064516129
+71,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceGfpRbsPconsTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),56,1.0
+72,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",56,0.9032258064516129
+73,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceGfpRbsPconsTer'})",56,0.9180327868852459
+74,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),56,0.9491525423728814
+75,"frozenset({'QDeviceAmprRbsPconsTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),52,1.0
+76,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QGenotypePhenotype'}),52,0.8813559322033898
+77,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QGenotypePhenotype'})",52,0.8524590163934426
+78,"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceAmprRbsPconsTer'}),58,0.8923076923076924
+79,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),58,1.0
+80,frozenset({'QDeviceRbsPconsAmprTer'}),"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",58,0.8787878787878788
+81,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceRbsPconsFlhdcTer', 'QDeviceRbsPconsAmprTer'})",58,0.9508196721311475
+82,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),58,0.9830508474576272
+83,"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceAmprRbsPconsTer'}),55,0.9482758620689655
+84,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceGfpRbsPconsTer'}),55,0.9482758620689655
+85,frozenset({'QDeviceRbsPconsAmprTer'}),"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceGfpRbsPconsTer'})",55,0.8333333333333334
+86,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceGfpRbsPconsTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),55,0.9821428571428571
+87,frozenset({'QDeviceGfpRbsPconsTer'}),"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",55,0.8870967741935484
+88,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceGfpRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",55,0.9016393442622951
+89,"frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",frozenset({'QDeviceAmprRbsPconsTer'}),52,0.8666666666666667
+90,"frozenset({'QDeviceAmprRbsPconsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QGenotypePhenotype'}),52,0.896551724137931
+91,frozenset({'QDeviceAmprRbsPconsTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QGenotypePhenotype'})",52,0.8524590163934426
+92,"frozenset({'QDeviceAmprRbsPconsTer', 'QGenotypePhenotype'})",frozenset({'QDeviceRbsPconsAmprTer'}),52,1.0
+93,frozenset({'QGreenFluorescence'}),frozenset({'QGenotypePhenotype'}),69,0.8117647058823529
+94,frozenset({'QDeviceRbsPconsFlhdcTer'}),frozenset({'QGenotypePhenotype'}),71,0.8658536585365854
+95,frozenset({'QUnequipDevice'}),frozenset({'QGenotypePhenotype'}),66,0.868421052631579
+96,frozenset({'QBioBricksDevicesComposition'}),frozenset({'QGenotypePhenotype'}),69,0.9078947368421053
+97,frozenset({'QDeviceRbsPconsAmprTer'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),65,0.9848484848484849
+98,frozenset({'QDeviceRbsPconsAmprTer'}),frozenset({'QGenotypePhenotype'}),60,0.9090909090909091
 99,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QGenotypePhenotype'}),54,0.8709677419354839
-100,frozenset({'QBioBricksDevicesComposition'}),frozenset({'QGenotypePhenotype'}),69,0.9078947368421053
-101,frozenset({'QUnequipDevice'}),frozenset({'QGenotypePhenotype'}),66,0.868421052631579
-102,frozenset({'QDeviceRbsPconsFlhdcTer'}),frozenset({'QGenotypePhenotype'}),71,0.8658536585365854
-103,frozenset({'QBBFunctionTER'}),frozenset({'QGenotypePhenotype'}),50,0.9259259259259259
-104,frozenset({'QDeviceRbsPconsAmprTer'}),frozenset({'QDeviceAmprRbsPconsTer'}),58,0.8787878787878788
-105,frozenset({'QDeviceAmprRbsPconsTer'}),frozenset({'QDeviceRbsPconsAmprTer'}),58,0.9508196721311475
-106,frozenset({'QDeviceRbsPconsAmprTer'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),65,0.9848484848484849
-107,frozenset({'QBBFunctionRBS'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),50,0.847457627118644
-108,frozenset({'QDeviceRbsPconsAmprTer'}),frozenset({'QGenotypePhenotype'}),60,0.9090909090909091
-109,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QAmpicillin'}),50,0.8064516129032258
-110,frozenset({'QGreenFluorescence'}),frozenset({'QGenotypePhenotype'}),69,0.8117647058823529
-111,frozenset({'QDeviceAmprRbsPconsTer'}),frozenset({'QDeviceGfpRbsPconsTer'}),56,0.9180327868852459
-112,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QDeviceAmprRbsPconsTer'}),56,0.9032258064516129
+100,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),62,1.0
+101,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QGreenFluorescence'}),51,0.8225806451612904
+102,frozenset({'QDeviceRbsPconsAmprTer'}),frozenset({'QDeviceGfpRbsPconsTer'}),58,0.8787878787878788
+103,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QDeviceRbsPconsAmprTer'}),58,0.9354838709677419
+104,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QAmpicillin'}),50,0.8064516129032258
+105,frozenset({'QDeviceAmprRbsPconsTer'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),59,0.9672131147540983
+106,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QDeviceAmprRbsPconsTer'}),56,0.9032258064516129
+107,frozenset({'QDeviceAmprRbsPconsTer'}),frozenset({'QDeviceGfpRbsPconsTer'}),56,0.9180327868852459
+108,frozenset({'QDeviceAmprRbsPconsTer'}),frozenset({'QGenotypePhenotype'}),52,0.8524590163934426
+109,frozenset({'QDeviceRbsPconsAmprTer'}),frozenset({'QDeviceAmprRbsPconsTer'}),58,0.8787878787878788
+110,frozenset({'QDeviceAmprRbsPconsTer'}),frozenset({'QDeviceRbsPconsAmprTer'}),58,0.9508196721311475
+111,frozenset({'QBBFunctionRBS'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),50,0.847457627118644
+112,frozenset({'QBBFunctionTER'}),frozenset({'QGenotypePhenotype'}),50,0.9259259259259259
