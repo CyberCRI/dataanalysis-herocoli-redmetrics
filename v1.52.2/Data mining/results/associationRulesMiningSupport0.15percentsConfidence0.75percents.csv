@@ -3243,9 +3243,9 @@
 3241,frozenset({'QDevicePconsRbsFlhdcTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",37,0.8409090909090909
 3242,"frozenset({'QBBFunctionRBS', 'QGreenFluorescence'})",frozenset({'QGenotypePhenotype'}),41,0.9318181818181818
 3243,"frozenset({'QGenotypePhenotype', 'QBBFunctionRBS'})",frozenset({'QGreenFluorescence'}),41,0.8367346938775511
-3244,"frozenset({'QDevicePbadGfpTbsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),39,0.9512195121951219
-3245,"frozenset({'QDevicePbadGfpTbsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),39,1.0
-3246,frozenset({'QDevicePbadGfpTbsTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",39,0.9512195121951219
+3244,"frozenset({'QDevicePbadGfpRbsTer', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QDeviceRbsPconsAmprTer'}),39,0.9512195121951219
+3245,"frozenset({'QDevicePbadGfpRbsTer', 'QDeviceRbsPconsAmprTer'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),39,1.0
+3246,frozenset({'QDevicePbadGfpRbsTer'}),"frozenset({'QDeviceRbsPconsAmprTer', 'QDeviceRbsPconsFlhdcTer'})",39,0.9512195121951219
 3247,"frozenset({'QBBFunctionRBS', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QAmpicillin'}),42,0.84
 3248,"frozenset({'QBBFunctionRBS', 'QAmpicillin'})",frozenset({'QDeviceRbsPconsFlhdcTer'}),42,0.9333333333333333
 3249,"frozenset({'QBioBricksDevicesComposition', 'QDeviceRbsPconsFlhdcTer'})",frozenset({'QAmpicillin'}),44,0.8301886792452831
@@ -3356,13 +3356,13 @@
 3354,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QDeviceRbsPconsAmprTer'}),58,0.9354838709677419
 3355,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QGreenFluorescence'}),51,0.8225806451612904
 3356,frozenset({'QAmpicillin'}),frozenset({'QGenotypePhenotype'}),76,0.7676767676767676
-3357,frozenset({'QDevicePbadGfpTbsTer'}),frozenset({'QDeviceRbsPconsAmprTer'}),39,0.9512195121951219
+3357,frozenset({'QDevicePbadGfpRbsTer'}),frozenset({'QDeviceRbsPconsAmprTer'}),39,0.9512195121951219
 3358,frozenset({'QBioBricksDevicesComposition'}),frozenset({'QGenotypePhenotype'}),69,0.9078947368421053
 3359,frozenset({'QBBFunctionTER'}),frozenset({'QGenotypePhenotype'}),50,0.9259259259259259
 3360,frozenset({'QBBFunctionRBS'}),frozenset({'QGenotypePhenotype'}),49,0.8305084745762712
 3361,frozenset({'QDevicePconsRbsFlhdcTer'}),frozenset({'QDeviceRbsPconsAmprTer'}),37,0.8409090909090909
 3362,frozenset({'QBBFunctionPlasmid'}),frozenset({'QGreenFluorescence'}),39,0.8478260869565217
-3363,frozenset({'QDevicePbadGfpTbsTer'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),41,1.0
+3363,frozenset({'QDevicePbadGfpRbsTer'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),41,1.0
 3364,frozenset({'QBBFunctionTER'}),frozenset({'QDeviceRbsPconsAmprTer'}),44,0.8148148148148148
 3365,frozenset({'QDeviceRbsPconsFlhdcTer'}),frozenset({'QDeviceGfpRbsPconsTer'}),62,0.7560975609756098
 3366,frozenset({'QDeviceGfpRbsPconsTer'}),frozenset({'QDeviceRbsPconsFlhdcTer'}),62,1.0
